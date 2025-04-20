@@ -42,6 +42,8 @@ The PICT Lost & Found System is a web application designed to streamline the pro
    # Install server dependencies
    cd server
    npm install
+   # for Email functionality Install EmailJS SDK using
+   npm install --save @emailjs/browser
 
    # Install client dependencies
    cd ../client
